@@ -1,0 +1,2 @@
+(use-ext eslint.eslint)
+(set-key editor.finalNewline false)
