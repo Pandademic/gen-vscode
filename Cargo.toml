@@ -1,0 +1,10 @@
+[package]
+name = "vscode-generator"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+execute = "0.2.11"
+pathsearch = "0.2.0"  
