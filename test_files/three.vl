@@ -1,0 +1,5 @@
+; an example config. Used for testing extensions
+
+(use-ext golang.go)
+(use-ext rust-lang.rust-analyzer)
+(use-ext CS50.ddb50)
