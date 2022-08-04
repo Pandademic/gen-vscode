@@ -1,0 +1,13 @@
+; this is a test for the lisp module.
+; it's designed to be confusing to it
+
+
+
+
+
+
+
+(use-ext golang.go)
+
+
+; I loove go!
